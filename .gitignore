@@ -1,0 +1,9 @@
+**/bin
+**/obj
+**/deploy
+**/release
+**/.vscode
+**/.vs
+.dotnet
+google-key.json
+**/appsettings.Development.json
